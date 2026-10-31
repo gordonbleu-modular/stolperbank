@@ -1,8 +1,12 @@
 # Stolperbank
 
-Pattern-bank editor for the Stolperbeats Eurorack sequencer.
+A vide-coded pattern-bank editor for the Stolperbeats eurorack sequencer by Making Sound Machines.
 
-# Stolperbank, a short guide
+It lives here: [https://gordonbleu-modular.github.io/stolperbank/](https://gordonbleu-modular.github.io/stolperbank/)
+
+For more infos on the module, see the Making Sound Machines website: [https://makingsoundmachines.com/stolperbeats/](https://makingsoundmachines.com/stolperbeats/)
+
+# Short Tutorial:
 
 Stolperbank writes pattern files for the Stolperbeats Eurorack sequencer. You draw or generate drum patterns, listen to them in the browser, and export a text file the module can read from its SD card.
 
