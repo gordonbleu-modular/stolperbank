@@ -1,6 +1,6 @@
 # Stolperbank
 
-A vide-coded pattern-bank editor for the Stolperbeats eurorack sequencer by Making Sound Machines.
+A vibe-coded pattern bank editor for the Stolperbeats eurorack sequencer by Making Sound Machines.
 
 It lives here: [https://gordonbleu-modular.github.io/stolperbank/](https://gordonbleu-modular.github.io/stolperbank/)
 
