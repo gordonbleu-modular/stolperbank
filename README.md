@@ -69,9 +69,7 @@ Pick a style. The line underneath says what that style is aiming for, and sugges
 
 Generate again if you want another take. The same settings do not always produce the same rhythm. **Undo** and **Redo** are on the left.
 
-## 5. Fill all 24 patterns
-
-![Export, import, and generating a whole bank](docs/tutorial/files.png)
+## 5. Left Column
 
 **Generate 24 patterns** fills every pad. It asks you to confirm first.
 
@@ -81,14 +79,14 @@ Generate again if you want another take. The same settings do not always produce
 - **Spread** is how far the 24 patterns wander from the sliders.
 - **Use current pattern** copies the style and sliders from the pattern you are looking at.
 
-## 6. Put it on the module
-
 The file number is one less than the bank number on the module. File `0` downloads as `PatternBank000.txt`, and that is **bank 1**. File `5` is `PatternBank005.txt`, bank 6. The line under the number says which is which.
 
 - **Export** downloads the text file.
 - **Copy** puts the same text on the clipboard. Use this if the browser does not start a download.
 - **Import** reads a Stolperbeats pattern file back in. You can also drop a `.txt` file onto the page.
 - **Empty bank** asks you to confirm, then clears all 24 patterns.
+
+![Export, import, and generating a whole bank](docs/tutorial/files.png)
 
 Power the module off before you take the SD card out. Copy the file onto the card. In `MachineConfig.txt`, set the matching digit of `PATTERNBANK_ACTIVE` to `1`. Digit 1 is bank 1, the file `PatternBank000.txt`. If that digit stays `0`, the module skips the bank when you browse.
 
