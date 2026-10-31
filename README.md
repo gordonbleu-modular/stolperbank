@@ -71,7 +71,7 @@ Generate again if you want another take. The same settings do not always produce
 
 ## 5. Left Column
 
-# Import/Export
+### Import/Export
 
 Below the pattern selector you can find the file export and complete pattern generation section.
 
@@ -82,7 +82,7 @@ Below the pattern selector you can find the file export and complete pattern gen
 
 The number below **File** is for the naming of the exported file. File `0` downloads as `PatternBank000.txt`, and that is **bank 1**. File `5` is `PatternBank005.txt`, bank 6. The line under the number says which is which.
 
-# Complete pattern bank generation
+### Complete pattern bank generation
 
 **Generate 24 patterns** fills every pattern. It asks you to confirm first.
 
